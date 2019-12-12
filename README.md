@@ -6,7 +6,7 @@ Fusion filer legges under Robotikklinja på Fusion slik at enhver har tilgang ti
 
 | Del | Link til fil |   
 |----------|--------|
-| X--akse inkludert "glider" | https://a360.co/2LOUoa | 
+| X--akse inkludert "glider" | https://a360.co/2LOUoau | 
 |   |   |
 |   |   |
 
@@ -15,7 +15,7 @@ Fusion filer legges under Robotikklinja på Fusion slik at enhver har tilgang ti
 | Oppgaver som utføres | Utført | Hvem har utført oppgaven | Kommentarer |  
 |----------|--------|-------- |-------|
 | Moddelere skapet som maskinen skal stå i |        |     
-| Moddelere linære aksene til anlegget       |     |  |  Herman og Kokul startet tegning av x-akse og inkluderene "glider" https://a360.co/2LOUoa | 
+| Moddelere linære aksene til anlegget       |     |  |  Herman og Kokul startet tegning av x-akse og inkluderene "glider" https://a360.co/2LOUoau | 
 | Frese deler       |        |   |
 | Sette sammen deler(mekanisk)      |        | |
 | Idriftsette elektrisk krets       |        | |

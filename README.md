@@ -16,7 +16,7 @@ Fusion filer legges under Robotikklinja på Fusion slik at enhver har tilgang ti
 
 | Oppgaver som utføres | Utført | Hvem har utført oppgaven | Kommentarer |  
 |----------|--------|-------- |-------|
-| Moddelere linære aksene til anlegget |        | | Herman og Kokul startet tegning av x-akse og inkluderene "glider" https://a360.co/2LOUoau |
+| Moddelere de linære aksene til anlegget |        | | Herman og Kokul startet tegning av x-akse og inkluderene "glider" https://a360.co/2LOUoau |
 | Moddelere skapet som maskinen skal stå i    |     |  
 | Frese deler       |        |   |
 | Sette sammen deler(mekanisk)      |        | |

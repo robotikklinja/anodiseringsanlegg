@@ -6,12 +6,6 @@ Store mengder med materiell inkludert ferdig spor finnes nede på Tip-verksted t
 
 Fusion filer legges under Robotikklinja på Fusion slik at enhver har tilgang til filene.
 
-| Del | Link til fil |   
-|----------|--------|
-| X--akse inkludert "glider" | https://a360.co/2LOUoau | 
-|   |   |
-|   |   |
-
 ### Fremdriftsplan 
 
 | Oppgaver som utføres | Utført | Hvem har utført oppgaven | Kommentarer |  

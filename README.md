@@ -1,4 +1,4 @@
-# Anodiseringsnalegg
+# Anodiseringsanlegg
 ![Farget aluminium](Images/aluminium.jpg)
 
 Oppgaven går ut på å bygge opp / designe et funksjonellt anodiseringsanlegg. Anlegget skal ha mulighet for bevegelse i 3-akser, X, Y og Z. Opbyggningen skal ta utgangspunkt i CNC maskinen [Hector](https://github.com/fellesverkstedet/fabricatable-machines/tree/master/hector-medium-format-cnc) men i en utvidet skala.

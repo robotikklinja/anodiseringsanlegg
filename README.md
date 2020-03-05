@@ -29,7 +29,7 @@ Jonathan og Mats har i uke 4 brakt opp hele anodiseringsskapet fra TIP og gjort 
 Jonathan har montert Acetone pumpe, skrevet dokumentasjon og lage tliste over deler som trengs for behandling av farlige stoffer i systemet.
 
 - [ ] Topp-profilen til bjelken til høyre
-- [ ] Design av montering for bunnprofilene på H-bjelkene
+- [x] Design av montering for bunnprofilene på H-bjelkene
 - [ ] Dimensjonere lengdene i mellom hvert bad for programmet
 
 ## Twincat 3

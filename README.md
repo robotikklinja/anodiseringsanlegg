@@ -31,3 +31,10 @@ Jonathan har montert Acetone pumpe, skrevet dokumentasjon og lage tliste over de
 - [ ] Topp-profilen til bjelken til høyre
 - [ ] Design av montering for bunnprofilene på H-bjelkene
 - [ ] Dimensjonere lengdene i mellom hvert bad for programmet
+
+## Twincat 3
+
+I hjørnet i klasserommet står det en industri PC med en testrigg til I/O modul som kan lekes med. For å komme i gang følg denne tutorialen: https://infosys.beckhoff.com/english.php?content=../content/1033/tc3_plc_intro/36028799544005771.html&id=
+
+Til I/O modulen er det koblet opp en servomotor som er hentet fra Lundin installasjonen. For å komme i gang med denne kan det være nyttig å lese denne før og underveis: http://www.contactandcoil.com/twincat-3-tutorial/introduction-to-motion-control/
+Hvis det er noen spørsmål til TwinCat 3 spør Morten.
